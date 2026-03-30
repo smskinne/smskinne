@@ -22,17 +22,17 @@
 
 ## 📫 Contact
 
-- **Email:** [skinnershaun@gmai.com](mailto:skinnershaun@gmail.com)
+- **Email:** [skinnershaun@gmail.com](mailto:skinnershaun@gmail.com)
 - **LinkedIn:** [linkedin.com/in/Shaunskinner](https://www.linkedin.com/in/shaun-skinner-438843208/)
 - **Website:** [shaunskinner.com](https://shaunskinner.com)
 
 <h2 align="center">I code and design with</h2>
 
 
-| Languages | Databases | Design & Tools |
+<p align="center> | Languages | Databases | Design & Tools |
 |-----------|-----------|----------------|
 | HTML, CSS, JavaScript | SQL, MongoDB | Adobe CC (Illustrator, Photoshop, Premiere, After Effects, InDesign) |
-| Python, Go, Ruby, Java | – | - |
+| Python, Go, Ruby, Java | – | - | </p>
 
 ###
 
