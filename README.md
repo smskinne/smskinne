@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://github.com/smskinne/smskinne/blob/main/Banner.png"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 - **Email:** [skinnershaun@gmai.com](mailto:skinnershaun@gmail.com)
 - **LinkedIn:** [linkedin.com/in/Shaunskinner](https://www.linkedin.com/in/shaun-skinner-438843208/)
-- **Website:** [shaunskinner.com](https://shaunskinner.com
+- **Website:** [shaunskinner.com](https://shaunskinner.com)
 
 <h2 align="center">I code and design with</h2>
 
