@@ -29,7 +29,7 @@
 <h2 align="center">I code and design with</h2>
 
 
-<p align="center> | Languages | Databases | Design & Tools |
+<p align="center"> | Languages | Databases | Design & Tools |
 |-----------|-----------|----------------|
 | HTML, CSS, JavaScript | SQL, MongoDB | Adobe CC (Illustrator, Photoshop, Premiere, After Effects, InDesign) |
 | Python, Go, Ruby, Java | – | - | </p>
